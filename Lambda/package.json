@@ -1,0 +1,10 @@
+{
+  "name": "lab-min-priv-lambda",
+  "version": "1.0.0",
+  "description": "Lambda para demostrar mínimo privilegio con DynamoDB",
+  "type": "module",
+  "main": "index.mjs",
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "latest"
+  }
+}
