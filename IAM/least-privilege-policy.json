@@ -8,7 +8,7 @@
         "dynamodb:GetItem",
         "dynamodb:Query"
       ],
-      "Resource": "arn:aws:dynamodb:${AWS_REGION}:${ACCOUNT_ID}:table/${PRODUCTS_TABLE}"
+      "Resource": "arn:aws:dynamodb:us-east-1:654654589924:table/CECH-customers-sensitive"
     }
   ]
 }
